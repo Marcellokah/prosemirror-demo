@@ -1,3 +1,6 @@
-# Parcel generated folders
+# Ignore Parcel generated files
 dist/
 .cache/
+
+# Ignore Node.js modules
+node_modules/
